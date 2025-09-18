@@ -1,0 +1,133 @@
+{
+  "services": [
+    {
+      "title": "Smarter Commerce & Payments",
+      "description": "We develop modern payment ecosystems for merchants and digital platforms.",
+      "image": "/images/commerce.png"
+    },
+    {
+      "title": "Engaging Digital Experiences",
+      "description": "We craft seamless and engaging user experiences for all devices.",
+      "image": "/images/experience.png"
+    },
+    {
+      "title": "Future Ready Fintech",
+      "description": "Our solutions enable fintech companies to scale securely and efficiently.",
+      "image": "/images/fintech.png"
+    }
+  ],
+  "items": [
+    {
+      "number": "01",
+      "title": "Full Cycle Innovation",
+      "description": "From concept to deployment, we handle strategy, development, and scaling."
+    },
+    {
+      "number": "02",
+      "title": "Cross Industry Agility",
+      "description": "Our solutions adapt to fintech, retail, entertainment, and beyond."
+    },
+    {
+      "number": "03",
+      "title": "Deep Technical Mastery",
+      "description": "We don’t just follow trends—we build the tech shaping tomorrow."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project Zero",
+      "description": "A Banking System For African Businesses To Receive Funds From Their Customers All Over The World",
+      "icon": "/images/project.svg",
+      "image": "/images/work1.png"
+    },
+    {
+      "title": "MWallet",
+      "description": "A Product To Send & Receive Multiple Currencies All Across The World",
+      "icon": "/images/wallet.svg",
+      "image": "/images/work2.png"
+    }
+  ],
+  "whoAreWe": {
+    "title": " Who Are We?",
+    "prefix": "We are a",
+    "highlight": "technology studio and agency",
+    "suffix": "that combines deep expertise with entrepreneurial vision to build transformative digital solutions across industries.",
+    "image1": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=2070&auto=format&fit=crop",
+    "image2": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070&auto=format&fit=crop",
+    "obj1": {
+      "title": "As a studio",
+      "desc": " We ideate, incubate, and launch our own ventures in high-impact domains."
+    },
+    "obj2": {
+      "title": "As an agency",
+      "desc": " We partner with enterprises and startups to architect,develop, and scale bespoke solutions tailored to their needs."
+    }
+  },
+  "howDoWeHelp": {
+    "title": "HOW DO WE HELP BUSINESSES?",
+    "prefix": " We specialize in building",
+    "highlight": " scalable, future-proof solutions",
+    "suffix": " across key digital domains",
+    "services": [
+      {
+        "title": "Smarter Commerce & Payments",
+        "description": "We develop modern payment ecosystems for merchants and digital platforms.",
+        "image": "/images/commerce.png"
+      },
+      {
+        "title": "Engaging Digital Experiences",
+        "description": "We craft seamless and engaging user experiences for all devices.",
+        "image": "/images/experience.png"
+      },
+      {
+        "title": "Future Ready Fintech",
+        "description": "Our solutions enable fintech companies to scale securely and efficiently.",
+        "image": "/images/fintech.png"
+      }
+    ]
+  },
+  "partners": {
+    "title": " Why partner with us?",
+    "items": [
+      {
+        "number": "01",
+        "title": "Full Cycle Innovation",
+        "description": "From concept to deployment, we handle strategy, development, and scaling."
+      },
+      {
+        "number": "02",
+        "title": "Cross Industry Agility",
+        "description": "Our solutions adapt to fintech, retail, entertainment, and beyond."
+      },
+      {
+        "number": "03",
+        "title": "Deep Technical Mastery",
+        "description": "We don’t just follow trends—we build the tech shaping tomorrow."
+      }
+    ]
+  },
+  "projectObj": {
+    "title": " What we’ve been building",
+    "prefix": "We don’t just talk innovation, we build it. Here’s a peek at the",
+    "highlight": "magic we’ve created.",
+    "projects": [
+      {
+        "title": "Project Zero",
+        "description": "A Banking System For African Businesses To Receive Funds From Their Customers All Over The World",
+        "icon": "/images/project.svg",
+        "image": "/images/work1.png"
+      },
+      {
+        "title": "MWallet",
+        "description": "A Product To Send & Receive Multiple Currencies All Across The World",
+        "icon": "/images/wallet.svg",
+        "image": "/images/work2.png"
+      }
+    ]
+  },
+  "footer": {
+    "title": "Let’s create what’s next together.",
+    "title2": "We’re always up for smart collaborations, wild experiments, and meaningful impact.",
+    "subtitle": "Sound like your kind of lab?"
+  }
+}
