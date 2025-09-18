@@ -3,17 +3,17 @@
     {
       "title": "Smarter Commerce & Payments",
       "description": "We develop modern payment ecosystems for merchants and digital platforms.",
-      "image": "/images/commerce.png"
+      "image": "https://storage.googleapis.com/mangozest-website-static-assets/hdw1.png"
     },
     {
       "title": "Engaging Digital Experiences",
       "description": "We craft seamless and engaging user experiences for all devices.",
-      "image": "/images/experience.png"
+      "image": "https://storage.googleapis.com/mangozest-website-static-assets/hdw2.png"
     },
     {
       "title": "Future Ready Fintech",
       "description": "Our solutions enable fintech companies to scale securely and efficiently.",
-      "image": "/images/fintech.png"
+      "image": "https://storage.googleapis.com/mangozest-website-static-assets/hdw3.png"
     }
   ],
   "items": [
@@ -37,14 +37,14 @@
     {
       "title": "Project Zero",
       "description": "A Banking System For African Businesses To Receive Funds From Their Customers All Over The World",
-      "icon": "/images/project.svg",
-      "image": "/images/work1.png"
+      "icon": "https://storage.googleapis.com/mangozest-website-static-assets/zero.png",
+      "image": "https://storage.googleapis.com/mangozest-website-static-assets/project1.png"
     },
     {
       "title": "MWallet",
       "description": "A Product To Send & Receive Multiple Currencies All Across The World",
-      "icon": "/images/wallet.svg",
-      "image": "/images/work2.png"
+      "icon": "https://storage.googleapis.com/mangozest-website-static-assets/wallet.png",
+      "image": "https://storage.googleapis.com/mangozest-website-static-assets/project2.png"
     }
   ],
   "whoAreWe": {
@@ -52,8 +52,8 @@
     "prefix": "We are a",
     "highlight": "technology studio and agency",
     "suffix": "that combines deep expertise with entrepreneurial vision to build transformative digital solutions across industries.",
-    "image1": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=2070&auto=format&fit=crop",
-    "image2": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070&auto=format&fit=crop",
+    "image1": "https://storage.googleapis.com/mangozest-website-static-assets/wwa1.png",
+    "image2": "https://storage.googleapis.com/mangozest-website-static-assets/wwa2.png",
     "obj1": {
       "title": "As a studio",
       "desc": " We ideate, incubate, and launch our own ventures in high-impact domains."
@@ -72,17 +72,17 @@
       {
         "title": "Smarter Commerce & Payments",
         "description": "We develop modern payment ecosystems for merchants and digital platforms.",
-        "image": "/images/commerce.png"
+        "image": "https://storage.googleapis.com/mangozest-website-static-assets/hdw1.png"
       },
       {
         "title": "Engaging Digital Experiences",
         "description": "We craft seamless and engaging user experiences for all devices.",
-        "image": "/images/experience.png"
+        "image": "https://storage.googleapis.com/mangozest-website-static-assets/hdw2.png"
       },
       {
         "title": "Future Ready Fintech",
         "description": "Our solutions enable fintech companies to scale securely and efficiently.",
-        "image": "/images/fintech.png"
+        "image": "https://storage.googleapis.com/mangozest-website-static-assets/hdw3.png"
       }
     ]
   },
@@ -112,16 +112,170 @@
     "highlight": "magic we’ve created.",
     "projects": [
       {
+        "id": "project-zero",
         "title": "Project Zero",
         "description": "A Banking System For African Businesses To Receive Funds From Their Customers All Over The World",
-        "icon": "/images/project.svg",
-        "image": "/images/work1.png"
+        "icon": "https://storage.googleapis.com/mangozest-website-static-assets/zero.png",
+        "headline": "Powering Businesses with Secure & Seamless Banking Across Africa",
+        "overview": "Project Zero is a banking system for African businesses to receive funds from their customers all over the world. Our goal was to design a secure, intuitive, and scalable platform to help businesses manage finances efficiently.",
+        "challenge": "Building trust in digital banking in a continent with infrastructure challenges while providing a seamless user experience across devices.",
+        "solution": "We implemented a secure multi-user system with KYC, transaction monitoring, and a responsive UI. Technologies like React, Node.js, and PostgreSQL were used.",
+        "image": "https://storage.googleapis.com/mangozest-website-static-assets/project1.png",
+        "svg": "https://storage.googleapis.com/mangozest-website-static-assets/zero.png",
+        "visualBranding": {
+          "colors": ["#0A53FF", "#F9FAFB", "#1E1E1E"],
+          "fonts": ["Inter", "Roboto"],
+          "imagery": "Professional photos of diverse African entrepreneurs"
+        },
+        "webAppDesign": [
+          {
+            "title": "Dashboard Overview",
+            "description": "An intuitive dashboard displaying transaction analytics and wallet balance.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero1.png"
+          },
+          {
+            "title": "Send & Receive",
+            "description": "Simple flow to transfer funds with currency switching.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero2.png"
+          },
+          {
+            "title": "Currency Wallets",
+            "description": "View multiple currency wallets and balances.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero3.png"
+          },
+          {
+            "title": "Secure Access",
+            "description": "Login and verification flows for secure access.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero4.png"
+          }
+        ],
+        "developmentProcess": "Agile methodology with weekly sprints, client review, and iteration. We focused on modular development for scalability and ease of updates.",
+        "results": "Successful launch with over 5,000 businesses onboarded in the first three months. 40% increase in transaction efficiency and 70% user satisfaction score.",
+        "nextProjectSlug": "mwallet"
       },
       {
+        "id": "mwallet",
         "title": "MWallet",
         "description": "A Product To Send & Receive Multiple Currencies All Across The World",
-        "icon": "/images/wallet.svg",
-        "image": "/images/work2.png"
+        "icon": "https://storage.googleapis.com/mangozest-website-static-assets/wallet.png",
+        "headline": "Fund, withdraw, send & receive virtual assets on your multi-currency wallet",
+        "overview": "MWallet is a versatile digital wallet that allows users to manage multiple currencies effortlessly. Designed to be intuitive and secure, it streamlines all asset transactions on a single platform.",
+        "challenge": "The biggest challenge was creating a seamless and highly secure wallet experience that supports both fiat and virtual assets without overwhelming the user.",
+        "solution": "We implemented a clean interface, robust encryption, and integration with major asset platforms to ensure fast and safe transactions.",
+        "image": "https://storage.googleapis.com/mangozest-website-static-assets/project2.png",
+        "svg": "https://storage.googleapis.com/mangozest-website-static-assets/wallet.png",
+        "visualBranding": {
+          "colors": ["#0D1117", "#58A6FF", "#F0F6FC"],
+          "fonts": ["Poppins", "Space Grotesk"]
+        },
+        "webAppDesign": [
+          {
+            "title": "Home Dashboard",
+            "description": "Users can see their balance and quick actions.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet1.png"
+          },
+          {
+            "title": "Transaction History",
+            "description": "Detailed overview of all transactions sorted by type and date.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet2.png"
+          },
+          {
+            "title": "Send/Receive Screen",
+            "description": "Simple UI for sending and receiving funds using usernames or wallet addresses.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet3.png"
+          },
+           {
+            "title": "Send/Receive Screen",
+            "description": "Simple UI for sending and receiving funds using usernames or wallet addresses.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet4.png"
+          }
+        ],
+        "developmentProcess": "The development was split into three sprints focusing on wallet core logic, integration with APIs, and front-end polish. We used TypeScript, Next.js, and Firebase for auth and storage.",
+        "results": "Since launch, MWallet has processed over 100,000 transactions with an average user rating of 4.8 stars across platforms.",
+        "nextProjectSlug": "project-zero"
+      },
+      {
+        "id": "mwallet-1",
+        "title": "MWallet",
+        "description": "A Product To Send & Receive Multiple Currencies All Across The World",
+        "icon": "https://storage.googleapis.com/mangozest-website-static-assets/wallet.png",
+        "headline": "Fund, withdraw, send & receive virtual assets on your multi-currency wallet",
+        "overview": "MWallet is a versatile digital wallet that allows users to manage multiple currencies effortlessly. Designed to be intuitive and secure, it streamlines all asset transactions on a single platform.",
+        "challenge": "The biggest challenge was creating a seamless and highly secure wallet experience that supports both fiat and virtual assets without overwhelming the user.",
+        "solution": "We implemented a clean interface, robust encryption, and integration with major asset platforms to ensure fast and safe transactions.",
+        "image": "https://storage.googleapis.com/mangozest-website-static-assets/project2.png",
+        "svg": "https://storage.googleapis.com/mangozest-website-static-assets/wallet.png",
+        "visualBranding": {
+          "colors": ["#0D1117", "#58A6FF", "#F0F6FC"],
+          "fonts": ["Poppins", "Space Grotesk"]
+        },
+        "webAppDesign": [
+         {
+            "title": "Home Dashboard",
+            "description": "Users can see their balance and quick actions.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet1.png"
+          },
+          {
+            "title": "Transaction History",
+            "description": "Detailed overview of all transactions sorted by type and date.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet2.png"
+          },
+          {
+            "title": "Send/Receive Screen",
+            "description": "Simple UI for sending and receiving funds using usernames or wallet addresses.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet3.png"
+          },
+           {
+            "title": "Send/Receive Screen",
+            "description": "Simple UI for sending and receiving funds using usernames or wallet addresses.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet4.png"
+          }
+        ],
+        "developmentProcess": "The development was split into three sprints focusing on wallet core logic, integration with APIs, and front-end polish. We used TypeScript, Next.js, and Firebase for auth and storage.",
+        "results": "Since launch, MWallet has processed over 100,000 transactions with an average user rating of 4.8 stars across platforms.",
+        "nextProjectSlug": "project-zero"
+      },
+      {
+        "id": "project-zero-1",
+        "title": "Project Zero",
+        "description": "A Banking System For African Businesses To Receive Funds From Their Customers All Over The World",
+        "icon": "https://storage.googleapis.com/mangozest-website-static-assets/project1.png",
+        "headline": "Powering Businesses with Secure & Seamless Banking Across Africa",
+        "overview": "Project Zero is a banking system for African businesses to receive funds from their customers all over the world. Our goal was to design a secure, intuitive, and scalable platform to help businesses manage finances efficiently.",
+        "challenge": "Building trust in digital banking in a continent with infrastructure challenges while providing a seamless user experience across devices.",
+        "solution": "We implemented a secure multi-user system with KYC, transaction monitoring, and a responsive UI. Technologies like React, Node.js, and PostgreSQL were used.",
+        "image": "https://storage.googleapis.com/mangozest-website-static-assets/project1.png",
+        "svg": "https://storage.googleapis.com/mangozest-website-static-assets/zero.png",
+        "visualBranding": {
+          "colors": ["#0A53FF", "#F9FAFB", "#1E1E1E"],
+          "fonts": ["Inter", "Roboto"],
+          "imagery": "Professional photos of diverse African entrepreneurs"
+        },
+        "webAppDesign": [
+           {
+            "title": "Dashboard Overview",
+            "description": "An intuitive dashboard displaying transaction analytics and wallet balance.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero1.png"
+          },
+          {
+            "title": "Send & Receive",
+            "description": "Simple flow to transfer funds with currency switching.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero2.png"
+          },
+          {
+            "title": "Currency Wallets",
+            "description": "View multiple currency wallets and balances.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero3.png"
+          },
+          {
+            "title": "Secure Access",
+            "description": "Login and verification flows for secure access.",
+            "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero4.png"
+          }
+        ],
+        "developmentProcess": "Agile methodology with weekly sprints, client review, and iteration. We focused on modular development for scalability and ease of updates.",
+        "results": "Successful launch with over 5,000 businesses onboarded in the first three months. 40% increase in transaction efficiency and 70% user satisfaction score.",
+        "nextProjectSlug": "mwallet"
       }
     ]
   },
@@ -129,5 +283,16 @@
     "title": "Let’s create what’s next together.",
     "title2": "We’re always up for smart collaborations, wild experiments, and meaningful impact.",
     "subtitle": "Sound like your kind of lab?"
+  },
+  "about": {
+    "title": "About Us",
+    "prefix": "We are a team of",
+    "highlight": "builders, strategists, and technologists",
+    "suffix": "who bridge the gap between emerging tech and real-world applications.",
+    "subtitle": "We specialize in Blockchain, Payments, eCommerce, Social Platforms, VR/AR, Fintech, Immersive Experiences, AI, and Large Language Models (LLMs), delivering cutting-edge products and services that redefine digital interactions.",
+    "image1": "https://storage.googleapis.com/mangozest-website-static-assets/about1.png",
+    "image2": "https://storage.googleapis.com/mangozest-website-static-assets/about2.png",
+    "mission": "We ideate, incubate, and launch our own ventures in high-impact domains.",
+    "vision": "We partner with enterprises and startups to architect, develop, and scale bespoke solutions tailored to their needs."
   }
 }
