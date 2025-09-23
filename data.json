@@ -184,7 +184,7 @@
             "description": "Simple UI for sending and receiving funds using usernames or wallet addresses.",
             "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet3.png"
           },
-           {
+          {
             "title": "Send/Receive Screen",
             "description": "Simple UI for sending and receiving funds using usernames or wallet addresses.",
             "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet4.png"
@@ -210,7 +210,7 @@
           "fonts": ["Poppins", "Space Grotesk"]
         },
         "webAppDesign": [
-         {
+          {
             "title": "Home Dashboard",
             "description": "Users can see their balance and quick actions.",
             "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet1.png"
@@ -225,7 +225,7 @@
             "description": "Simple UI for sending and receiving funds using usernames or wallet addresses.",
             "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet3.png"
           },
-           {
+          {
             "title": "Send/Receive Screen",
             "description": "Simple UI for sending and receiving funds using usernames or wallet addresses.",
             "image": "https://storage.googleapis.com/mangozest-website-static-assets/wallet4.png"
@@ -252,7 +252,7 @@
           "imagery": "Professional photos of diverse African entrepreneurs"
         },
         "webAppDesign": [
-           {
+          {
             "title": "Dashboard Overview",
             "description": "An intuitive dashboard displaying transaction analytics and wallet balance.",
             "image": "https://storage.googleapis.com/mangozest-website-static-assets/zero1.png"
@@ -294,5 +294,237 @@
     "image2": "https://storage.googleapis.com/mangozest-website-static-assets/about2.png",
     "mission": "We ideate, incubate, and launch our own ventures in high-impact domains.",
     "vision": "We partner with enterprises and startups to architect, develop, and scale bespoke solutions tailored to their needs."
+  },
+  "privacy": {
+    "converted_on": "2025-09-23",
+
+    "info": [
+      "Mango Zest Lab Limited (“Mango Zest”, “we”, “us”, or “our”) is a company duly incorporated under the laws of the Federal Republic of Nigeria, with global operations in view. We are a technology-driven enterprise providing transformative solutions across industries. We specialize in building platforms for Blockchain, Payments, eCommerce, Social Platforms, Virtual Reality/Augmented Reality, Fintech, Immersive Experiences, AI, and Large Language Models (LLMs), delivering cutting-edge products and services that redefine digital interactions.",
+      "This Privacy Policy sets out in detail how we collect, use, disclose, transfer, store, and protect your personal information when you interact with our websites, mobile applications, digital platforms, APIs, blockchain services, and back-office systems (collectively, “Services”).",
+      "For emphasis, this Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website and other places where Mango Zest acts as a data controller—for example, when you interact with one of our products or platforms as a consumer for personal use, or when we operate and provide our commercial customers and their end users with access to our commercial products (“Commercial Services”).",
+      "This Privacy Policy does not apply where Mango Zest acts as a data processor and processes personal data on behalf of commercial customers using Client’s Commercial Services – for example, you're using an app that is powered on the back-end by Mango Zest. In those cases, the commercial customer is the controller, and you can review their policies for more information about how they handle your personal data.",
+      "By accessing or using our Services, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy. Where required by law, we will seek your explicit consent before processing your personal information."
+    ],
+    "subSection": {
+      "title": "We are committed to safeguarding your personal data in line with:",
+      "contentList": [
+        "The Nigeria Data Protection Act 2023 (NDPA) and regulations issued by the Nigeria Data Protection Commission (NDPC)",
+        "The EU General Data Protection Regulation (GDPR).",
+        "And other applicable data protection frameworks globally."
+      ]
+    },
+    "sections": [
+      {
+        "id": 1,
+        "title": "Information We Collect",
+        "content": "We collect both personal and non-personal data, depending on the nature of your interactions with our Services. Categories include:",
+        "subSectionList": [
+          {
+            "title": "Personal Identification Information",
+            "contentList": [
+              "Full name, residential and/or business address, email address, and phone number.",
+              "Date of birth, nationality, and gender (where required).",
+              "Identity verification documents (international passport, driver’s licence, national ID, voter’s card, or any government-issued identification).",
+              "Tax Identification Numbers, social security numbers, or equivalent identifiers",
+              "Politically Exposed Person (PEP) status and related disclosures."
+            ]
+          },
+          {
+            "title": "Financial & Transactional Data",
+            "contentList": [
+              "Bank account details, International Bank Account Numbers (IBAN), SWIFT/BIC codes.",
+              "Debit/credit card numbers, expiry dates, CVV (processed securely and never stored in plain form",
+              "Stablecoin wallet addresses and associated balances.",
+              "Transactional metadata such as timestamps, counterparties, payment references, and transaction hashes",
+              "Proof of source of funds (e.g., payslips, bank statements, shareholding certificates)."
+            ]
+          },
+          {
+            "title": "Web3-Specific Data",
+            "contentList": [
+              "Wallet addresses and other supported blockchain networks.",
+              "Smart contract interactions, tokenization submissions, and validator confirmations.",
+              "Immutable blockchain records associated with your public key. ",
+              "Decentralized identifiers (DIDs) and other cryptographic proofs used for authentication.",
+              "Proof of source of funds (e.g., payslips, bank statements, shareholding certificates)."
+            ]
+          },
+          {
+            "title": "Technical & Usage Information",
+            "contentList": [
+              "Device type, IP address, operating system, and browser information",
+              "Geolocation data derived from IP mapping or device settings.",
+              "Log records capturing your interactions with our Services, including login times, duration, actions taken, and frequency. ",
+              "Metadata from cookies, beacons, SDKs, and analytics tools."
+            ]
+          },
+          {
+            "title": "Communications & Support Data",
+            "contentList": [
+              "Emails, chat messages, and recorded customer support calls.",
+              "Complaints, dispute records, and escalation history.",
+              "Survey responses, user feedback, and participation in beta testing or pilot programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Purposes of Data Processing",
+        "content": "We process personal information strictly for legitimate business, legal, and operational purposes, including",
+        "subSectionList": [
+          "Account creation, onboarding, and KYC/AML verification.",
+          "Provision of stablecoin-enabled payments, blockchain interactions, and tokenization services",
+          "To conduct Anti-Money Laundering/Counter-Terrorist Financing (AML/CTF) checks, Know-Your-Customer (KYC) verifications, and fraud prevention.",
+          "Fulfilment of legal, tax, and regulatory obligations in Nigeria and other jurisdictions",
+          "Customer support, dispute resolution, and transaction monitoring.",
+          "Enhancement of platform security, including penetration testing and threat detection",
+          "Performance of contractual obligations under our Terms of Service",
+          "Delivery of marketing, newsletters, and promotional campaigns (where you have opted in)",
+          "Business analytics, research, and service improvement",
+          "Risk assessment, litigation defence, and corporate governance."
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Legal Basis for Processing",
+        "content": "We rely on one or more of the following lawful grounds:",
+        "subSectionList": [
+          "Consent: For marketing communications or optional data sharing.",
+          "Contractual Necessity: To deliver services under our agreement with you.",
+          "Legal Obligation: Compliance with NDPA, AML/CTF laws, securities regulation, and tax reporting.",
+          "Legitimate Interests: Protecting our platforms against abuse, improving services, and pursuing business objectives without overriding your rights.",
+          "Vital Interests: Where processing is necessary to protect you or others from serious harm."
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Methods of Data Collection",
+        "content": null,
+        "subSectionList": [
+          "Direct Submission: Via registration forms, KYC submissions, funding your account, or customer support interactions",
+          "Automated Means: Through cookies, session trackers, analytics, and blockchain logs when you interact with our Services",
+          "Legal Obligation: Compliance with NDPA, AML/CTF laws, securities regulation, and tax reporting.",
+          "Legitimate Interests: Protecting our platforms against abuse, improving services, and pursuing business objectives without overriding your rights.",
+          "Vital Interests: Where processing is necessary to protect you or others from serious harm."
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Data Retention",
+        "content": "We retain your personal data only as long as necessary to fulfil the purposes outlined in this Privacy Policy, including compliance with applicable legal, accounting, and regulatory requirements. In most cases:",
+        "subSectionList": [
+          "KYC and transaction records: Minimum of 5 years, extendable if required by law.",
+          "Communications: Retained for as long as you maintain an account with us, and longer if required by law",
+          "Blockchain data: immutable and permanently stored on the ledger, though linkage to personal identifiers is minimised",
+          "Marketing preferences: Until you opt-out or withdraw consent"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Data Sharing & Disclosures",
+        "content": "We may share your information with:",
+        "subSectionList": [
+          "Regulatory and supervisory authorities in Nigeria and abroad (NDPC, CBN, SEC, EFCC, and quivalent global regulators).",
+          "Financial institutions, payment processors, correspondent banks, and stablecoin issuers.",
+          "Legal advisors, auditors, consultants, and service providers (IT, analytics, compliance, insurance, customer support).",
+          "hird-party service providers, including cloud hosting, analytics, KYC/AML solutions, and IT infrastructure, subject to strict contractual obligations",
+          "Law enforcement, government bodies and courts upon receipt of valid legal orders."
+        ],
+        "footer": "We do not sell or rent personal data to marketers or unrelated third parties."
+      },
+      {
+        "id": 7,
+        "title": "International Transfers",
+        "content": "Given the global nature of blockchain technology and our approach, your data may be transferred outside Nigeria. Where we transfer data internationally, we will ensure:",
+        "subSectionList": [
+          "Adequacy Decisions (where countries are recognised as providing equivalent protection).",
+          "Standard Contractual Clauses (SCCs) approved under GDPR.",
+          "Binding Corporate Rules (BCRs) for internal group data sharing.",
+          "Encryption and pseudonymisation to minimise risk during transfer."
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Security Measures",
+        "content": "We implement physical, technical, and organisational safeguards to protect your personal",
+        "subSectionList": [
+          "End-to-end encryption (TLS/SSL) and AES-256 encryption for stored data",
+          "Multi-factor authentication for account access.",
+          "Segregation of duties and role-based access to sensitive data.",
+          "Continuous monitoring, intrusion detection systems, and firewalls",
+          "Regular penetration testing and ISO 27001-aligned security audits.",
+          "Secure key management for blockchain addresses."
+        ],
+        "footer": "Despite these measures, blockchain transactions recorded on public ledgers are inherently immutable and transparent. While we minimise identifiable linkages, you should exercise caution when using blockchain addresses that can be associated with your identity"
+      },
+      {
+        "id": 9,
+        "title": "Cookies & Tracking Technologies",
+        "content": "We use cookies and similar technologies for:",
+        "subSectionList": [
+          "User authentication and session management.",
+          "Traffic analytics and platform performance",
+          "Preference storage and customisation of user interfaces."
+        ],
+        "footer": "You may disable cookies via your browser settings, but this may affect certain features of our Services."
+      },
+      {
+        "id": 10,
+        "title": "Automated Decision-Making & Profiling",
+        "content": "We may use automated tools for:",
+        "subSectionList": [
+          "Risk assessment and AML screening.",
+          "Fraud detection and suspicious activity monitoring.",
+          "Transaction screening for compliance purposes."
+        ],
+        "footer": "However, final decisions with significant legal or financial impact are subject to human review."
+      },
+      {
+        "id": 11,
+        "title": "Data Subject Rights",
+        "content": "Under NDPA, GDPR, and other applicable laws, you may have the following rights:",
+        "subSectionList": [
+          "Right to be informed about how we process your data.",
+          "Right of access to the personal data we hold about you",
+          "Right to rectification of inaccurate or incomplete data.",
+          "Right to erasure (“right to be forgotten”) subject to legal limitations",
+          "Right to restrict processing in certain circumstances.",
+          "Right to object to processing, including direct marketing",
+          "Right to data portability.",
+          "Right to withdraw consent at any time (where processing is based on consent)."
+        ],
+        "footer": "Requests can be made by contacting us at the details below. We may require identity verification before responding."
+      },
+      {
+        "id": 12,
+        "title": "Third-Party Links",
+        "content": "Our Services may contain external links. Mango Zest is not responsible for third-party data practices. We strongly recommend reviewing their privacy policies before providing personal data."
+      },
+      {
+        "id": 13,
+        "title": "Children’s Privacy",
+        "content": "Our Services are strictly limited to individuals 18 years and above. We do not knowingly collect or process children’s data. Where such data is inadvertently collected, we will delete it immediately."
+      },
+      {
+        "id": 14,
+        "title": "Policy Updates",
+        "content": "We may amend this Privacy Policy to reflect changes in regulation, technology, or corporate operations. All updates will be posted with a new “Last Updated” date. Users will be notified of material changes via email or platform notices. Continued use of our Services constitutes acceptance of any changes."
+      },
+      {
+        "id": 14,
+        "title": "Policy Updates",
+        "content": "We may amend this Privacy Policy to reflect changes in regulation, technology, or corporate operations. All updates will be posted with a new “Last Updated” date. Users will be notified of material changes via email or platform notices. Continued use of our Services constitutes acceptance of any changes."
+      }
+    ],
+    "footer": {
+      "title": "Contact Us",
+      "content": "For enquiries, questions, complaints, or to exercise your data protection rights, please contact our Data Protection Officer (DPO)",
+      "name": "MangoZest Technologies Limited",
+      "position": "Data Protection Officer",
+      "office address": "",
+      "email": "",
+      "phone": ""
+    }
   }
 }
